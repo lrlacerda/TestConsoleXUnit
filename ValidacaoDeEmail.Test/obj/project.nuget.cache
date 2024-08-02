@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5tCT7L3Q8P9E2bZwYL2EkAdPHJX9PtH8nUePO38t4hdOqgX7EC8B9rNEskD//05kXxY8FV2F0+/fAOGPuA57A==",
+  "dgSpecHash": "2IulzjT8B2JtDZumsUaxqtdP7WvgxwKKGnbcppgCWkWxNSkg9ihqUqnZS9nAOBCzFlE+4g4yyKdQHtwZ8yqQ4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj",
+  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\32784630803\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\32784630803\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj": {}
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj": {
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj",
+        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj",
         "projectName": "ConversaoDeTemperatura.Test",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj",
+        "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura.Test\\ConversaoDeTemperatura.Test.csproj",
         "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura.Test\\obj\\",
+        "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj": {
-                "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj"
+              "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj": {
+                "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj": {
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
+        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
         "projectName": "ConversaoDeTemperatura",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
+        "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
         "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\obj\\",
+        "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",

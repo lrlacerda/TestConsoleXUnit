@@ -26,5 +26,11 @@ namespace ControleDeInventario
         {
             return produtos.ContainsKey(nome) ? produtos[nome] : 0;
         }
+
+        // Método para limpar o inventário
+        public static void ResetarInventario()
+        {
+            produtos.Clear();
+        }
     }
 }

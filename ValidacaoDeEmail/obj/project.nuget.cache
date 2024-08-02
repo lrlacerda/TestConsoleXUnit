@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKdpJwOA4ZHBoPbqGzfcVeJWuZLduVCzttYByoV4oGPsJ+fMnaTTk/IS5Mah5atkz5TOwrSuFhug9C09Yu/JPQ==",
+  "dgSpecHash": "+XfutDd3/6WdcAEjw59P1jm9Tg9Ake7SiCPdBjhThG1jXtz5YcxI6UsXGW7EiYdwsiSeyJw0G9lC7BjiVvwcgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj",
+  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

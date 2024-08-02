@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidacaoDeEmail.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e8926d0dfc3a950f067a257561a80bf82e457dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidacaoDeEmail.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidacaoDeEmail.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

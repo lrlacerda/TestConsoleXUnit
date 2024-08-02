@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
+      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
       "projectName": "ControleDeInventario.Test",
-      "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
+      "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
       "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ControleDeInventario.Test\\obj\\",
+      "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5560,8 +5560,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ControleDeInventario\\ControleDeInventario.csproj": {
-              "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ControleDeInventario\\ControleDeInventario.csproj"
+            "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario\\ControleDeInventario.csproj": {
+              "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario\\ControleDeInventario.csproj"
             }
           }
         }

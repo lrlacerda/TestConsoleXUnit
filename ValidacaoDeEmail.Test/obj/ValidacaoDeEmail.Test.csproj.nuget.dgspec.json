@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj": {}
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj": {
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj",
+        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj",
         "projectName": "ValidacaoDeEmail.Test",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj",
+        "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail.Test\\ValidacaoDeEmail.Test.csproj",
         "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail.Test\\obj\\",
+        "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj": {
-                "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj"
+              "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj": {
+                "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj": {
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj",
+        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj",
         "projectName": "ValidacaoDeEmail",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj",
+        "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\ValidacaoDeEmail.csproj",
         "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ValidacaoDeEmail\\obj\\",
+        "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ValidacaoDeEmail\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",

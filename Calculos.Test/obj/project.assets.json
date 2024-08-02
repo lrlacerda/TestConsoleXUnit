@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\Calculos.Test\\Calculos.Test.csproj",
+      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\Calculos.Test\\Calculos.Test.csproj",
       "projectName": "Calculos.Test",
-      "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\Calculos.Test\\Calculos.Test.csproj",
+      "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\Calculos.Test\\Calculos.Test.csproj",
       "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\Calculos.Test\\obj\\",
+      "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\Calculos.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5560,8 +5560,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\Calculos\\Calculos.csproj": {
-              "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\Calculos\\Calculos.csproj"
+            "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\Calculos\\Calculos.csproj": {
+              "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\Calculos\\Calculos.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MRg7t72N5EuYLGc1nB4/qyPnKdoQcxcOjootcVMQaRKZc/sgi9U+COpY4jCdgTctnSm/vHRQN/v3EWBGxZ81jg==",
+  "dgSpecHash": "Mp8OQ9ZpT9QmB4nLy5qOBi5mpq//VwLuyDkFKKHSATfHvRENJQyAr3t52r50JdX3QjO9Uukg7JNF/f5UcmU3RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\Calculos.Test\\Calculos.Test.csproj",
+  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\Calculos.Test\\Calculos.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\32784630803\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\32784630803\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

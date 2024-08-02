@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConversaoDeTemperatura
-build_property.ProjectDir = C:\Users\32784630803\Desktop\testConsoleXUnit\ConversaoDeTemperatura\
+build_property.ProjectDir = C:\Users\32784630803\Desktop\TestConsole_XUnit\ConversaoDeTemperatura\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

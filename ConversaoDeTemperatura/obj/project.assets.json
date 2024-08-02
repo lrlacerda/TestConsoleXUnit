@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
+      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
       "projectName": "ConversaoDeTemperatura",
-      "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
+      "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\ConversaoDeTemperatura.csproj",
       "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\ConversaoDeTemperatura\\obj\\",
+      "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ConversaoDeTemperatura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,6 +9,12 @@ namespace ControleDeInventario.Test
 {
     public class InventarioUnitTest
     {
+        public InventarioUnitTest()
+        {
+            // Reinicializa o estado do inventário antes de cada teste
+            Inventario.ResetarInventario();
+        }
+
         [Fact]
         public void TestarMetodoAdicionarProduto()
         {

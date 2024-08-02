@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj": {}
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj": {
+    "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj",
+        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj",
         "projectName": "GerenciamentoDeLivros",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj",
+        "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\GerenciamentoDeLivros\\GerenciamentoDeLivros.csproj",
         "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\GerenciamentoDeLivros\\obj\\",
+        "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\GerenciamentoDeLivros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",

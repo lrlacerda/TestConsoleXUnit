@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6AaRs05gY+8CeqvtnhFVT6x6vQkORLDYQxLLplene2dnMKsv0hhO9kPG0dDclwDYEhMRKP/jCKR8BABEE+oyig==",
+  "dgSpecHash": "d3+rKZkkedqshF99f2zHZqMDCHAWoYQvGkg1MkAx6DZ40iaBWS2VEj5z3IoxvekGC9Td7BvmascqagZaP5ORhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\testConsoleXUnit\\GerenciamentoDeLivros.Test\\GerenciamentoDeLivros.Test.csproj",
+  "projectFilePath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\GerenciamentoDeLivros.Test\\GerenciamentoDeLivros.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\32784630803\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\32784630803\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
